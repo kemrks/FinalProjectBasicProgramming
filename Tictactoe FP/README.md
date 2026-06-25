@@ -3,8 +3,8 @@
 ## Student Information
 | Field       | Value           |
 |-------------|-----------------|
-| Name        | *(your name)*   |
-| Student ID  | *(your NRP)*    |
+| Name        | *Kemal Arka Satya*   |
+| Student ID  | *5026251124*    |
 | Class       | ES234211        |
 
 ---
