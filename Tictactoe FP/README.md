@@ -129,7 +129,7 @@ student-swing-game-project/
 ---
 
 ## GitHub Link
-*(paste your GitHub repository link here)*
+*[(paste your GitHub repository link here)](https://github.com/kemrks/FinalProjectBasicProgramming/blob/main/Tictactoe%20FP/README.md)*
 
 ## YouTube Video Link
 *(paste your YouTube demonstration video link here)*
