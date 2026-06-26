@@ -101,7 +101,7 @@ private static final String DB_PASSWORD = "";
 ---
 
 ## Screenshots
-*(Add screenshots of Login Window, Game Window, Statistics, and Top 5 Scorers here)*
+*[(Add screenshots of Login Window, Game Window, Statistics, and Top 5 Scorers here)](https://drive.google.com/drive/folders/1sKsWXx_pw1HoMEpUmLhYeyHpfkKQvAhZ?usp=sharing)*
 
 ---
 
@@ -132,4 +132,4 @@ student-swing-game-project/
 *[(paste your GitHub repository link here)](https://github.com/kemrks/FinalProjectBasicProgramming/blob/main/Tictactoe%20FP/README.md)*
 
 ## YouTube Video Link
-*(paste your YouTube demonstration video link here)*
+*[(paste your YouTube demonstration video link here)](https://youtu.be/vtiLL4PP1-Y)*
